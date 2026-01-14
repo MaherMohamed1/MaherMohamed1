@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm passionate about building intelligent systems and exploring the power of data.<br>I’m constantly seeking to gain hands-on experience, learn new technologies, and contribute to large-scale datasets and ML projects.<br>My main interests include model development, data preprocessing, MLOps, and real-world deployment of machine learning models.</h5>
+<h5 align="left">Machine Learning Engineer with a deep understanding of supervised learning and neural networks, gained through implementing models and training pipelines from first principles. Strong in feature engineering, performance evaluation, and handling imbalanced data, with practical experience using Python, NumPy, Scikit-learn and Pytorch to build and assess reliable models.</h5>
 
 ###
 
